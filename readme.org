@@ -1,0 +1,4 @@
+#+TITLE: Readme
+
+Solutions for HackerRank problems.
+Trying to learn Haskell :)
